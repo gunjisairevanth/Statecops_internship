@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Statecops1</string>
+
+    <string-array name="Dist_names">
+        <item>Select District</item>
+        <item>Anantapur</item>
+        <item>Chittoor</item>
+        <item>East Godavari</item>
+        <item>Guntur</item>
+        <item>Kadapa</item>
+        <item>Krishna</item>
+        <item>Kurnool</item>
+        <item>Sri Potti Sri Ramulu Nellore</item>
+        <item>Prakasam</item>
+        <item>Srikakulam</item>
+        <item>Visakhapatnam</item>
+        <item>Vizianagaram</item>
+        <item>West Godavari</item>
+    </string-array>
+    <string-array name="subject">
+        <item>Select Subject</item>
+        <item>OTHERS</item>
+        <item>CYBER CRIMES</item>
+        <item>RAGGING</item>
+        <item>RAPE</item>
+        <item>ROBBERY</item>
+        <item>POLITICAL OFFENCE</item>
+        <item>NON BANKING FINANCIAL INSTITUTION CASES</item>
+        <item>MOBILE MISSING</item>
+        <item>MURDER</item>
+        <item>VEHICLE MISSING</item>
+        <item>MISSING PERSONS</item>
+        <item>KIDNAP</item>
+    </string-array>
+    <string-array name="Gender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="welcome">welcome</string>
+    <string name="register">Register</string>
+    <string name="copyright">All rights received © AP Police Department</string>
+    <string name="ap">Andhra Pradesh</string>
+    <string name="login_first">First</string>
+    <string name="login_last">Last</string>
+    <string name="login_email">Email (or) Phone</string>
+    <string name="login_password">Password</string>
+    <string name="login_repassword">Re-enter Password</string>
+    <string name="login_conditions">I agree Terms and Conditions</string>
+</resources>
